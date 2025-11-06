@@ -1,5 +1,5 @@
 /*Mariana Gutiérrez Acosta
-Laboratorio 10 programa 3*/
+Laboratorio 10 programa 1b*/
 
 #include<stdio.h>
 int main()
